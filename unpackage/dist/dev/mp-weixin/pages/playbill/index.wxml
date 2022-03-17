@@ -1,0 +1,1 @@
+<view class="playbill"><image src="{{domain+code_path}}" mode="widthFix"></image></view>

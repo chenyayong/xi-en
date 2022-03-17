@@ -1,0 +1,13 @@
+{
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": true,
+  "backgroundColorTop": "#f7f7f7",
+  "usingComponents": {
+    "magic-guideline": "/components/magic/magic-guideline/index",
+    "magic-swiper": "/components/magic/magic-swiper/index",
+    "magic-picture": "/components/magic/magic-picture/index",
+    "magic-button-group": "/components/magic/magic-button-group/index",
+    "magic-goods": "/components/magic/magic-goods/index",
+    "page-header": "/pages/tabbar/components/page-header"
+  }
+}

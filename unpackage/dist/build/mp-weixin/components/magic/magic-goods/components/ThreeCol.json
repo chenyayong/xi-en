@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "col-sub": "/components/magic/magic-goods/components/ColSub"
+  }
+}

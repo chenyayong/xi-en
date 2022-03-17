@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["pages/product/components/mix-swiper"],{"1c8f":function(t,n,e){"use strict";(function(t){Object.defineProperty(n,"__esModule",{value:!0}),n.default=void 0;var e={name:"MixProductDetailSwiper",data:function(){return{current:0,renderList:[],domain:this.$config.domain}},props:{list:{type:Array,default:function(){return[]}}},mounted:function(){console.log("mounted",this.list)},watch:{list:function(t){var n=this;this.renderList=t.map((function(t){return{loaded:!!n.loaded,image_url:t.image_url}})),this.loaded=!0}},methods:{onSwiperChange:function(t){this.current=t.detail.current},previewImage:function(n){t.previewImage({current:n,urls:this.list})},imageOnLoad:function(t,n){var e=this;setTimeout((function(){e.$set(t,"loaded",!0)}),100)}}};n.default=e}).call(this,e("543d")["default"])},"2cd4":function(t,n,e){"use strict";e.r(n);var r=e("63ac"),i=e("7ba8");for(var u in i)"default"!==u&&function(t){e.d(n,t,(function(){return i[t]}))}(u);e("5947");var a,c=e("f0c5"),o=Object(c["a"])(i["default"],r["b"],r["c"],!1,null,"8be5448c",null,!1,r["a"],a);n["default"]=o.exports},"42e2":function(t,n,e){},5947:function(t,n,e){"use strict";var r=e("42e2"),i=e.n(r);i.a},"63ac":function(t,n,e){"use strict";var r;e.d(n,"b",(function(){return i})),e.d(n,"c",(function(){return u})),e.d(n,"a",(function(){return r}));var i=function(){var t=this,n=t.$createElement;t._self._c},u=[]},"7ba8":function(t,n,e){"use strict";e.r(n);var r=e("1c8f"),i=e.n(r);for(var u in r)"default"!==u&&function(t){e.d(n,t,(function(){return r[t]}))}(u);n["default"]=i.a}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'pages/product/components/mix-swiper-create-component',
+    {
+        'pages/product/components/mix-swiper-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('543d')['createComponent'](__webpack_require__("2cd4"))
+        })
+    },
+    [['pages/product/components/mix-swiper-create-component']]
+]);

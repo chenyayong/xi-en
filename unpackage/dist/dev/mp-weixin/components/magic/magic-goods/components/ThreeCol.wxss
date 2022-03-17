@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/* 配色 */
+.row.data-v-241845d6 {
+  align-items: flex-start;
+}
+.col.data-v-241845d6:nth-child(even) {
+  padding-left: 2.7px;
+  padding-right: 2.7px;
+}
+.col.data-v-241845d6:nth-child(odd) {
+  padding-right: 5.3px;
+}
+.col.data-v-241845d6:nth-child(3n) {
+  padding-left: 5.3px;
+  padding-right: 0;
+}
+

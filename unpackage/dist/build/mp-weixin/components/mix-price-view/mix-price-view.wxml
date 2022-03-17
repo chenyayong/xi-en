@@ -1,0 +1,1 @@
+<view class="mix-price-view data-v-1e50b666" style="{{'font-size:'+(size-8+'rpx')+';'}}"><text class="data-v-1e50b666">￥</text><text class="price data-v-1e50b666" style="{{'font-size:'+(size+'rpx')+';'}}">{{priceArr[0]}}</text><text class="data-v-1e50b666">{{"."+priceArr[1]}}</text></view>

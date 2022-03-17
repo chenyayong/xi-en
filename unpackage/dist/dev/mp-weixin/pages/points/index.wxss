@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/* 配色 */
+.app {
+  display: flex;
+  flex-direction: column;
+  padding-top: 10rpx;
+}
+.app .mix-empty {
+  position: relative;
+}
+.app .default {
+  padding-top: 0;
+}
+.app .uni-list-item__content-title {
+  font-size: 32rpx;
+  margin-bottom: 4rpx;
+}
+.app .uni-list-item__content-note {
+  font-size: 28rpx;
+}
+.app .uni-list-item__extra-text {
+  font-size: 28rpx;
+}
+

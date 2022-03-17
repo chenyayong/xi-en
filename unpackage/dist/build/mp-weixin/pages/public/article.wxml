@@ -1,0 +1,1 @@
+<view class="app column data-v-567807f4"><jyf-parser vue-id="7f56e61d-1" html="{{data.content}}" lazy-load="{{true}}" show-with-animation="{{true}}" data-ref="article" class="data-v-567807f4 vue-ref" bind:__l="__l"></jyf-parser><block wx:if="{{isLoading}}"><mix-loading vue-id="7f56e61d-2" type="{{2}}" class="data-v-567807f4" bind:__l="__l"></mix-loading></block></view>

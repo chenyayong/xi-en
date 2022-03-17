@@ -1,0 +1,10 @@
+@charset "UTF-8";
+/* 配色 */
+.picture.data-v-1d989cd4 {
+  width: 100%;
+}
+.picture image.data-v-1d989cd4 {
+  width: 100%;
+  display: block;
+}
+

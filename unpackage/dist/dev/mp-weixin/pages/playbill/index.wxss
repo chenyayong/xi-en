@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/* 配色 */
+.playbill {
+  width: 100%;
+  height: calc(100vh - 44px);
+  background-image: linear-gradient(300deg, #eef3d2, #fc8884);
+  position: relative;
+}
+.playbill image {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  display: block;
+}
+

@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["components/magic/magic-goods/components/ColSub"],{"445e":function(t,n,e){"use strict";Object.defineProperty(n,"__esModule",{value:!0}),n.default=void 0;var o={name:"TwoColSub",data:function(){return{contentMap:{goods_name:"",sales_sum:"销量",shop_price:"￥",cost_price:"￥"}}},props:{customStyle:{type:Object,default:function(){return{}}},item:{type:Object,default:function(){return{}}},attribute:{type:String,default:""},content:{type:Array,default:function(){return[]}}},methods:{contentFilter:function(t){return this.content.indexOf(t)>-1},handleNav:function(t){this.navTo("/pages/product/detail?id=".concat(t.goods_id),{login:!0})}}};n.default=o},"6cbd":function(t,n,e){},"927e":function(t,n,e){"use strict";var o=e("6cbd"),r=e.n(o);r.a},b232:function(t,n,e){"use strict";var o;e.d(n,"b",(function(){return r})),e.d(n,"c",(function(){return u})),e.d(n,"a",(function(){return o}));var r=function(){var t=this,n=t.$createElement,e=(t._self._c,t.__map(t.contentMap,(function(n,e){var o=t.__get_orig(n),r=t.contentFilter(e);return{$orig:o,m0:r}})));t.$mp.data=Object.assign({},{$root:{l0:e}})},u=[]},d5ff:function(t,n,e){"use strict";e.r(n);var o=e("b232"),r=e("f343");for(var u in r)"default"!==u&&function(t){e.d(n,t,(function(){return r[t]}))}(u);e("927e");var c,a=e("f0c5"),i=Object(a["a"])(r["default"],o["b"],o["c"],!1,null,"15c55742",null,!1,o["a"],c);n["default"]=i.exports},f343:function(t,n,e){"use strict";e.r(n);var o=e("445e"),r=e.n(o);for(var u in o)"default"!==u&&function(t){e.d(n,t,(function(){return o[t]}))}(u);n["default"]=r.a}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'components/magic/magic-goods/components/ColSub-create-component',
+    {
+        'components/magic/magic-goods/components/ColSub-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('543d')['createComponent'](__webpack_require__("d5ff"))
+        })
+    },
+    [['components/magic/magic-goods/components/ColSub-create-component']]
+]);

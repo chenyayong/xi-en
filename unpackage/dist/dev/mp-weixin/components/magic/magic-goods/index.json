@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "one-col": "/components/magic/magic-goods/components/OneCol",
+    "two-col": "/components/magic/magic-goods/components/TwoCol",
+    "three-col": "/components/magic/magic-goods/components/ThreeCol",
+    "single-row": "/components/magic/magic-goods/components/SingleRow"
+  }
+}

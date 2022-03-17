@@ -1,0 +1,56 @@
+@charset "UTF-8";
+/* 配色 */
+.col-sub.data-v-74c8031a  .svg-icon {
+  position: absolute;
+  left: 6px;
+  top: 6px;
+}
+.col-sub.data-v-74c8031a {
+  position: relative;
+  background-color: #fff;
+  margin-bottom: 16rpx;
+  padding-bottom: 16rpx;
+  overflow: hidden;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.12), 0 0 6px rgba(0, 0, 0, 0.12);
+}
+.col-sub .block-img image.data-v-74c8031a {
+  width: 100%;
+  display: block;
+}
+.col-sub .block-img .attribute.data-v-74c8031a {
+  position: absolute;
+  left: 12rpx;
+  top: 12rpx;
+  width: 60rpx;
+  height: 60rpx;
+}
+.col-sub .label.data-v-74c8031a {
+  font-size: 24rpx;
+  padding-left: 12rpx;
+  color: #909399;
+}
+.col-sub .goods_name.data-v-74c8031a {
+  color: #303133;
+  font-weight: bold;
+  text-overflow: -o-ellipsis-lastline;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+  -webkit-box-orient: vertical;
+  margin-top: 12rpx;
+}
+.col-sub .sales_sum.data-v-74c8031a {
+  margin-top: 24rpx;
+}
+.col-sub .shop_price.data-v-74c8031a {
+  color: #f56c6c;
+  margin-top: 24px;
+  font-size: 32rpx;
+}
+.col-sub .cost_price.data-v-74c8031a {
+  text-decoration: line-through;
+  margin-top: 4rpx;
+}
+

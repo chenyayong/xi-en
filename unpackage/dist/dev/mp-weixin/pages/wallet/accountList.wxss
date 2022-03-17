@@ -1,0 +1,57 @@
+
+page {
+	background-color: #f7f7f7;
+}
+
+@charset "UTF-8";
+/* 配色 */
+.list-item.data-v-1439a90e {
+  width: 690rpx;
+  height: 240rpx;
+  background: white;
+  box-shadow: 0px 4rpx 18rpx 0px rgba(0, 0, 0, 0.1);
+  border-radius: 6rpx;
+  margin: 0 auto;
+  margin-bottom: 30rpx;
+  padding: 30rpx;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.list-item .card-image.data-v-1439a90e {
+  display: flex;
+  align-items: center;
+}
+.list-item .card-image image.data-v-1439a90e {
+  height: 40rpx;
+  width: 40rpx;
+  margin-right: 20rpx;
+}
+.list-item .flex.data-v-1439a90e {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.list-item .flex image.data-v-1439a90e {
+  height: 32rpx;
+  width: 32rpx;
+}
+.app.data-v-1439a90e {
+  padding-top: 20rpx;
+}
+.main-wrap.data-v-1439a90e {
+  opacity: 0;
+  transition: opacity 0.2s;
+}
+.main-wrap.show.data-v-1439a90e {
+  opacity: 1;
+}
+.bot-btn-wrap.data-v-1439a90e {
+  position: fixed;
+  left: 0;
+  bottom: 30rpx;
+  z-index: 90;
+  width: 100%;
+}
+
